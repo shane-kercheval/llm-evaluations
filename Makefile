@@ -1,6 +1,6 @@
 .PHONY: tests app proto
 
-include .env
+-include .env
 export
 
 ####
